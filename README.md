@@ -8,3 +8,4 @@
 ## [Lab-04:](https://github.com/travel-insurance-worker/SE1-Project-material/tree/master/Lab-04%20(Activity%20diagram))
 * We sketched an Activity diagram for each Use Case and uploaded it.
 ## [Lab-05:](https://github.com/travel-insurance-worker/SE1-Project-material/tree/master/Lab-05%20(Use%20case%20description))
+* We write use case description based on **activity diagram** and **use cases** and upload it
