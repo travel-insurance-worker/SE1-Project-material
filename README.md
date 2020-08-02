@@ -22,3 +22,9 @@
 2. __Cancel/Change__ trip: 
 > *In this section, you can see all your trips and you have the option to cancel or change your trip.
 3. __Contact us__
+## Support
+Reach out to us at:
+* boroomand.bahar@yahoo.co.uk
+* peyman.xt@gmail.com
+* riasiarman@yahoo.com
+* ghazalze@yahoo.com
