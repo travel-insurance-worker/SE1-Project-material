@@ -17,11 +17,11 @@
 * This perentation is aboat HCI. HCI is a multidisciplinary field of study focusing on the design of computer technology and, in particular, the interaction between humans (the users) and computers. 
 ## [Front-end:](https://github.com/travel-insurance-worker/SE1-Project-material/tree/master/Front-End%20of%20Website)
 ##### This website has three sections:
-1. __Information__: 
+1. __About__: 
 > * In this section, the website is introduced.
-2. __Cancel/Change__ trip: 
+2. __Cancel/Change Trip__: 
 > *In this section, you can see all your trips and you have the option to cancel or change your trip.
-3. __Contact us__
+3. __Contact__
 
 <img width="1200" alt="Screen Shot 2020-08-02 at 6 33 42 PM" src="https://user-images.githubusercontent.com/35253872/89124756-b314a100-d4ee-11ea-86c5-4f257be0f611.png">
 <img width="1200" alt="Screen Shot 2020-08-02 at 6 35 47 PM" src="https://user-images.githubusercontent.com/35253872/89124801-fd961d80-d4ee-11ea-8360-82861f1b2656.png">
