@@ -20,7 +20,7 @@
 1. __About__: 
 > * In this section, the website is introduced.
 2. __Cancel/Change Trip__: 
-> *In this section, you can see all your trips and you have the option to cancel or change your trip.
+> * In this section, you can see all your trips and you have the option to cancel or change your trip.
 3. __Contact__
 
 <img width="1200" alt="Screen Shot 2020-08-02 at 6 33 42 PM" src="https://user-images.githubusercontent.com/35253872/89124756-b314a100-d4ee-11ea-86c5-4f257be0f611.png">
